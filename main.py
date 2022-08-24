@@ -12,7 +12,7 @@ import os, json
 import numpy as np
 import pandas as pd
 # from nltk import sent_tokenize
-from tqdm.autonotebook import trange
+#from tqdm.autonotebook import trange
 from scipy.stats import spearmanr
 from transformers import BertTokenizer, BertModel
 from sklearn.model_selection import train_test_split
