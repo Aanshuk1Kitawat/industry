@@ -1,2 +1,1 @@
 torch==1.10.2
-tqdm @ file:///opt/conda/conda-bld/tqdm_1650891076910/work
