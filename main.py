@@ -109,4 +109,4 @@
 #         st.markdown("<ol> <li>Commercial and Professional Services</li> <li>Diversified Financials</li> <li>Capital Goods</li> <li>Real Estate</li> <li>Consumer Services</li> <li>Retailing</li> <li>Media and Entertainment</li> <li>Software and Services</li> <li>Health Care Equipment and Services</li> <li>Materials</li> <li>Transportation</li> <li>Food, Beverage and Tobacco</li> <li>Consumer Durables and Apparel</li> <li>Food and Staples Retailing</li> <li>Energy</li> <li>Technology Hardware and Equipment</li> <li>Insurance</li> <li>Pharmaceuticals, Biotechnology and Life Sciences</li><li>Banks  </li> <li>Utilities</li> </ol>", unsafe_allow_html=True)
 #     else:
 #         st.warning("Enter something first")
-print("Hello")
+print("Hello Aanshuk here")
